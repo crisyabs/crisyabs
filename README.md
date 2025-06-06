@@ -23,9 +23,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif"  />
-
-###
+<br clear="both">
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -39,6 +37,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/crisyabs/crisyabs/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="300" src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif"  />
+</div>
 
 ###
+
